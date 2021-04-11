@@ -22,13 +22,13 @@
         <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
         
         <!--後半で作成するcssを読み込む-->
-        
+        <link href="{{ secure_asset('css/admin.css') }}" rel="stylesheet">
         
         
     </head>
     
     <body>
-        <div id="app">
+        <div id="app"><link href="{{ secure_asset('css/admin.css') }}" rel="stylesheet">
             <nav class="navbar navbar-expand-md navbar-dark navbar-laravel">
                 <div class="container">
                     <a class="navbar-brand" href="{{ url('/') }}">

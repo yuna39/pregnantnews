@@ -1,12 +1,12 @@
 body {
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #000;
-  color: #fff;
+  background-color: #ffeeff;
+  color: #333333;
 }
 
 .navbar-laravel {
-  background-color: #000;
+  background-color: #333333;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
@@ -23,19 +23,19 @@ body {
 }
 
 .list-group-item {
-  border-color: #fff;
-  background-color: #000;
+  border-color: #ffeeff;
+  background-color: #ffeeff;
 }
 
 .login-box {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: #ffeeff;
 }
 
 .login-header {
-  background-color: rgba(0, 0, 0, 0.25);
+  background-color: #ffeeff;
 }
 
 .login-body {
-  background-color: rgba(0, 0, 0, 0.25);
+  background-color: #ffeeff;
 }
 
